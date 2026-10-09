@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+<circle cx="50" cy="50" r="46" fill="#0b2a49" stroke="#d8eaff" stroke-width="3"/>
+<circle cx="50" cy="50" r="37" fill="none" stroke="#d8eaff" stroke-width="1.5"/>
+<path d="M50 19 L58 35 L75 38 L63 51 L66 69 L50 60 L34 69 L37 51 L25 38 L42 35 Z" fill="#d8eaff" opacity=".95"/>
+<circle cx="50" cy="46" r="9" fill="#0b2a49"/>
+<text x="50" y="84" font-family="Arial,sans-serif" font-size="8" text-anchor="middle" fill="#fff">SNSGPC</text>
+</svg>
